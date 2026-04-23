@@ -11,5 +11,5 @@ exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 language = "zh_CN"
 root_doc = "index"
 
-html_theme = "alabaster"
+html_theme = 'sphinx_rtd_theme'
 html_title = "Toy RTD Site"
