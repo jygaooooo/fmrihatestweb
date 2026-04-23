@@ -8,7 +8,7 @@ extensions = []
 templates_path = []
 exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
 
-language = "zh_CN"
+language = "en"
 root_doc = "index"
 
 html_theme = 'sphinx_rtd_theme'
